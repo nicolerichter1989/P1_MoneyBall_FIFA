@@ -35,7 +35,7 @@ drop position columns
 rows with several null values
 other object or string null values change to unknown
 
-After cleaning FIFA 21 dataset contains 75 columns and 17,125 rows
+After cleaning FIFA 21 dataset contains 73 columns and 17,069 rows
 
 ### Explanation of how the data was processed (including the cleaning and selection of the variables to include in the model)
 
