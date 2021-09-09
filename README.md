@@ -1,6 +1,6 @@
 # FIFA_21_MoneyBall
 
-![FIFA text](FIFA.jpg)
+![FIFA text](FIFA.jpeg)
 
 ## Objective
 
