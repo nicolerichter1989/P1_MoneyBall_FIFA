@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FIFA_21_MoneyBall
 
 ![FIFA text](FIFA.jpg)
@@ -55,16 +54,8 @@ The datasat contains 10.125 rows and 107 columns.
 - [statsmodels](https://www.statsmodels.org/stable/index.html)
 - [scipy](https://www.scipy.org/)
 - [sklearn](https://scikit-learn.org/stable/)
-=======
-# P1_MoneyBall_FIFA
 
-### First steps
-
-Importing all required libraries
-Importing data (csv file)
-Reviewing the shape and dtypes of the data
-
-### Understanding the Data
+OLD NOTES
 
 To understand the data I used several functions, some might not be displayed within my jupyter file.
 As I am personally not very familiar with FIFA jargon I had to spend a lot of time understanding what the different columns actually stand for.
