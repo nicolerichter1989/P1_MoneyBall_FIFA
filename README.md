@@ -55,6 +55,8 @@ The datasat contains 10.125 rows and 107 columns.
 - [scipy](https://www.scipy.org/)
 - [sklearn](https://scikit-learn.org/stable/)
 
+![Alt Text](https://media2.giphy.com/media/Qwtw3GTvRg8LxKaUet/giphy.gif?cid=ecf05e47u9osjc1n30c9g0ord37ktiu96kgidz253dc6fq49&rid=giphy.gif)
+
 OLD NOTES
 
 To understand the data I used several functions, some might not be displayed within my jupyter file.
