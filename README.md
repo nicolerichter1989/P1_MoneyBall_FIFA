@@ -30,13 +30,7 @@ The datasat contains 10.125 rows and 107 columns.
 | growth | growth of the player (performance) |
 | value | current value of the player |
 | wage | current wage of the player |
-| release_clause | current wage of the player |
 | goalkeeping | score for goalkeeping performance |
-| w_f | current wage of the player |
-| sm | current wage of the player |
-| a_w | current wage of the player |
-| d_w | current wage of the player |
-| ir | current wage of the player |
 | sho | score for shooting performance |
 | pas | score for passing performance |
 | dri | score for dribbling performance |
