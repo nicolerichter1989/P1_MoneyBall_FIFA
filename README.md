@@ -23,25 +23,26 @@ The datasat contains 10.125 rows and 107 columns.
 | ova | overall score of the player |
 | nationality | nationality of the player |
 | club | club of the player |
+| bov | best scor overall (since recording) |
 | bp | best position |
-| position | current position |
 | pot | potential score of the player |
-| height | height of the player |
-| weight | weight of the player |
 | foot | left or right foot |
 | growth | growth of the player (performance) |
 | value | current value of the player |
 | wage | current wage of the player |
-| wage | current wage of the player |
-| wage | current wage of the player |
-| wage | current wage of the player |
-| wage | current wage of the player |
-| wage | current wage of the player |
-| wage | current wage of the player |
-| wage | current wage of the player |
-| wage | current wage of the player |
-| wage | current wage of the player |
-| wage | current wage of the player |
+| release_clause | current wage of the player |
+| goalkeeping | score for goalkeeping performance |
+| w_f | current wage of the player |
+| sm | current wage of the player |
+| a_w | current wage of the player |
+| d_w | current wage of the player |
+| ir | current wage of the player |
+| sho | score for shooting performance |
+| pas | score for passing performance |
+| dri | score for dribbling performance |
+| def | score for defending performance |
+| phy | score for physical performance |
+| hits | goals scored total |
 
 ### Workflow
 
